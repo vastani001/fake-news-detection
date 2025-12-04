@@ -13,7 +13,7 @@ Clean & modular training + prediction scripts
 Easy to extend (LSTM, BERT, Streamlit UI)
 
 📂 Project Structure
-  fake-news-detection/
+    fake-news-detection/
     ├── data/
     │ ├── True.csv
     │ └── Fake.csv
